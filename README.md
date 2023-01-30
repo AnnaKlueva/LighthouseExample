@@ -1,0 +1,1 @@
+<H1>Puppeteer tests with Lighthouse</H1>
